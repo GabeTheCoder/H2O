@@ -1,5 +1,5 @@
 
-# H20 🌊 🐢 🚀
+# H20 🌊🐢🚀
 
 H20 is a modern full stack starter kit with simple server side rendering and fully featured boilerplate code for a universal application (both server and client side). Based on Node.js and React, among other things.
 
